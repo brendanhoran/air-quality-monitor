@@ -20,3 +20,7 @@ Sensors are updated every 5 seconds to the LCD.
 ## Software needed
 
 * soft stuff    
+
+## How to build
+
+All code is designed to run as a frozen module(s).   
